@@ -1,6 +1,6 @@
 package challenges;
 
-// Write the logic that will find the indices of two integers that add up to 41.
+// Write the code that will find the indices of two integers that add up to 41.
 // If there are no such indices return an empty array.
 public class TwoSum41 {
 
