@@ -1,8 +1,7 @@
 package challenges;
 
-import java.util.List;
-
-// Which of these classics are palindromes? Letter case and special characters can be ignored.
+// Write the code to return whether the song is a palindrome or not.
+// Letter case and special characters can be ignored.
 public class Palindrome {
 
     public static boolean isPalindrome(String song) {
