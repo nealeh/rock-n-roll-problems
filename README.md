@@ -18,3 +18,5 @@ No, not drugs, alcohol or "the man", but some classic programming brain-teasers 
 
 For each challenge, verify your solution by running the corresponding test class in src/test/java/challenges
 
+https://dev.to/neale/rock-n-roll-problems-2n88
+
